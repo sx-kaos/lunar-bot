@@ -265,4 +265,4 @@ async def password(ctx, *, question):
 			embed.add_field(name=f"time:", value=f"if the hackers started at {now} they would finish at {end}", inline=True)
 			await ctx.reply(embed=embed)
 			break
-client.run('OTAyODU4ODUwNzkxNzM1MzI3.YXki1A.ldFgqBN4eQYLCE8T5ec4IxMsr5U')
+client.run('token')
